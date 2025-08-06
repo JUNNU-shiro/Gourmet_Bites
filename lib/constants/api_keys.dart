@@ -1,0 +1,1 @@
+const String googleApiKey = 'YOUR_GOOGLE_API_KEY'; // TODO: Replace with your real API key. Do NOT commit your real key to version control. 
